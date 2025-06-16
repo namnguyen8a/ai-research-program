@@ -43,3 +43,7 @@
 - Composition vs Inheritance
 - Design patterns
 - System design
+
+# Refs:
+- https://aistudio.google.com/prompts/1JqZmaDOK_hW7x_W7WoLYU3BlWpsdL5v5 (namnguyen.8a)
+- https://www.perplexity.ai/search/phan-1-cac-topic-ve-cau-truc-d-4xTFJnrQSTWczXmSio5evQ (namnguyen.8a)
