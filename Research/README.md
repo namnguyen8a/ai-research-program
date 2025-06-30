@@ -156,3 +156,6 @@ The final push to get your work out into the world.
 - [ ] Format the paper according to the requirements of your target journal or conference.
 - [ ] Submit your work.
 - [ ] **Celebrate a completed research cycle!**
+
+### Refs:
+- https://aistudio.google.com/prompts/1hw-1wSJ1s4ZWQtbPUpcWlGHJDSEFUs5d
