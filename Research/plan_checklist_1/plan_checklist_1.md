@@ -159,3 +159,4 @@ The final push to get your work out into the world.
 
 ### Refs:
 - https://aistudio.google.com/prompts/1hw-1wSJ1s4ZWQtbPUpcWlGHJDSEFUs5d
+- https://notebooklm.google.com/notebook/80586287-e2e7-491a-bbca-f99a231b621f (notebooklm)
