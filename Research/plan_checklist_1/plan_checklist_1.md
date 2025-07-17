@@ -7,13 +7,13 @@ This plan operationalizes the research proposal, breaking it down into concrete,
 This phase is about building the technical bedrock for your experiment.
 
 #### **1.1. Project & Environment Setup**
-- [ ] Create a new project folder on your computer.
-- [ ] Set up a Python virtual environment (e.g., using `venv` or `conda`).
-- [ ] Activate the virtual environment.
-- [ ] Create a `requirements.txt` file to track dependencies.
-- [ ] Install essential libraries:
-    - [ ] `pip install notebook jupyterlab pandas numpy scikit-learn`
-    - [ ] `pip install matplotlib seaborn`
+- [X] Create a new project folder on your computer.
+- [X] Set up a Python virtual environment (e.g., using `venv` or `conda`).
+- [X] Activate the virtual environment.
+- [X] Create a `requirements.txt` file to track dependencies.
+- [X] Install essential libraries:
+    - [X] `pip install notebook jupyterlab pandas numpy scikit-learn`
+    - [X] `pip install matplotlib seaborn`
 - [ ] Initialize a version control system: `git init`.
 - [ ] Create an initial project structure (e.g., folders for `/data`, `/notebooks`, `/scripts`, `/models`).
 
@@ -159,4 +159,4 @@ The final push to get your work out into the world.
 
 ### Refs:
 - https://aistudio.google.com/prompts/1hw-1wSJ1s4ZWQtbPUpcWlGHJDSEFUs5d
-- https://notebooklm.google.com/notebook/80586287-e2e7-491a-bbca-f99a231b621f (notebooklm)
+- https://archive.ics.uci.edu/dataset/34/diabetes (datasets)

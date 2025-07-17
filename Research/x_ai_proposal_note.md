@@ -20,3 +20,6 @@
 **Summary**
 
 This research proposal details a rigorous, 10-week study to evaluate if LLM-generated explanations for a "black-box" diabetes prediction model are superior to the technical SHAP method. The study will assess three key dimensions: **faithfulness** (do they reflect the model's logic?), **comprehensibility** (are they easy for doctors to understand?), and **clinical utility** (do they improve diagnostic accuracy?). Through a controlled user study with 10 clinicians, the project will test specific, falsifiable hypotheses using statistical methods. The key novelty lies in being one of the first studies to measure the direct impact of LLM explanations on clinical decision-making, with the goal of producing a reusable evaluation framework and practical guidelines for the safe use of AI in healthcare. The project is well-scoped with a clear timeline, a modest budget of ~$1,000, and identified risks with mitigation strategies.
+
+# Refs:
+- https://notebooklm.google.com/notebook/80586287-e2e7-491a-bbca-f99a231b621f (notebooklm)
