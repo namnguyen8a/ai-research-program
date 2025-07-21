@@ -14,13 +14,13 @@ This phase is about building the technical bedrock for your experiment.
 - [X] Install essential libraries:
     - [X] `pip install notebook jupyterlab pandas numpy scikit-learn`
     - [X] `pip install matplotlib seaborn`
-- [ ] Initialize a version control system: `git init`.
-- [ ] Create an initial project structure (e.g., folders for `/data`, `/notebooks`, `/scripts`, `/models`).
+- [X] Initialize a version control system: `git init`.
+- [X] Create an initial project structure (e.g., folders for `/data`, `/notebooks`, `/scripts`, `/models`).
 
 #### **1.2. Data Acquisition and Preprocessing**
-- [ ] Locate and download the "Pima Indians Diabetes Database" from the UCI Machine Learning Repository.
-- [ ] Place the raw data file in your `/data` directory.
-- [ ] Start a new Jupyter Notebook for "01-Data-Preprocessing-and-Modeling".
+- [X] Locate and download the "Pima Indians Diabetes Database" from the UCI Machine Learning Repository. (https://archive.ics.uci.edu/dataset/34/diabetes)
+- [X] Place the raw data file in your `/data` directory.
+- [X] Start a new Jupyter Notebook for "01-Data-Preprocessing-and-Modeling".
 - [ ] Load the dataset into a pandas DataFrame.
 - [ ] Perform initial exploratory data analysis (EDA):
     - [ ] Use `.head()` to inspect the first few rows.
